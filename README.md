@@ -1,7 +1,7 @@
 # PB-clone
 Clone build of Plague Bearer module
 
-These resources are available for personal use based on EU Directive 2009/24/EC.
+These resources are available for personal use as-is based on EU Directive 2009/24/EC.
 
 As per authors request, the actual schematic is omitted, only PCB resources are provided.
 
