@@ -21,4 +21,6 @@ TL082IDT	U1
 1M		R4,R9,R23
 1.21M		R3,R17
 
-
+Through hole caps 
+2.2 nF  C1
+10 nF   C2,C3
